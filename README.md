@@ -21,7 +21,7 @@
 - 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP
 - 🎨 Рисую с детства, обожаю цифровое творчество и визуальный стиль
 - 🎮 Веду YouTube-канал: [@superyankaplay](https://www.youtube.com/@superyankaplay)
-- 🌐 Сайт: [superyanka.netlify.app](https://superyanka.netlify.app)
+- 🌐 Сайт: [superyanka.netlify.app](https://superyanka-website.netlify.app/)
 - 🌵 Забочусь о своих кактусах (мой главный — Коля)
 
 ---
@@ -62,7 +62,7 @@
 |--------|----------|--------|
 | 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
 | 📊 **House Prices** | Прогнозирование цены продажи дома | [GitHub](https://github.com/SuperYanka/house-prices-regression) [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
-| 🌐 **Персональный сайт** | Анимированный автобиографический сайт | [Live](https://superyanka.netlify.app) [GitHub](https://github.com/SuperYanka/superyanka-website) |
+| 🌐 **Персональный сайт** | Анимированный автобиографический сайт | [Live](https://superyanka-website.netlify.app/) [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 ---
 
