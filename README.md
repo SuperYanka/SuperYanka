@@ -18,11 +18,11 @@
 ## 🌸 About Me
 
 - 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології" /
--  I graduated from KPI in "Automation and Computer-Integrated Technologies"
+- 🎓I graduated from KPI in "Automation and Computer-Integrated Technologies"
 - 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP /
-- Passionate about AI, especially LLMs and NLP
+- 🤖 Passionate about AI, especially LLMs and NLP
 - 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день! /
-- Aspiring ML/LLM Engineer. Learning daily!
+- 🧠 Aspiring ML/LLM Engineer. Learning daily!
 - 🌐 Website: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/) 
 
 <p align="center">
