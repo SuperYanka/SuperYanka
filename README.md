@@ -10,8 +10,9 @@
 
 <h1 align="center">✨ Добро пожаловать в мой мир! / Welcome to my world! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=580&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.%2FI'm+Yana%2C+creating+beauty+in+code+and+life.;Я+рисую%2C+кодю+и+снимаю+летсплеи.%2FI+draw%2C+code%2C+and+record+let's+plays.;Люблю+ИИ%2C+музыку+и+кактусы.%2FI+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;I'm+Yana%2C+creating+beauty+in+code+and+life.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
 </p>
+
 
 ---
 
