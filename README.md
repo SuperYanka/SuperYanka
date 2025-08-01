@@ -63,10 +63,11 @@
 
 ## 🧁 Фан-факты
 
-- I'm into visualization and beautiful graphs 📊
-- I collect cacti 🌵 (my main one is called Stas 😄)
-- I run my own channel on YouTube Super Yanka
-- I like to play musical instruments
+- 📊 Обожаю делать красивые графики и дашборды
+- 🌵 Коллекционирую кактусы (моего главного зовут Стас)
+- 🎬 Записываю и монтирую летсплеи сама
+- 🎼 Иногда сочиняю музыку и играю на инструментах
+- 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день!
 
 ---
 
@@ -76,8 +77,7 @@
   <a href="https://t.me/neadekvattttt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@superyankaplay"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/superyanka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://superyanka.netlify.app<img src="///"/></a>
-
+  <a href="https://superyanka.netlify.app"><img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
