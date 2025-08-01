@@ -1,8 +1,7 @@
 <h1 align="center">Приветик! Меня зовут Яна 💖 / Hi! I'm Yana 💖</h1>
 
 <p align="center">
-  <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="200px" alt="SuperYanka Logo"
-  style="filter: drop-shadow(0 0 12px #00ffe1); animation: glow 2s infinite alternate;" />
+  <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="200px" alt="SuperYanka Logo"/>
 </p>
 
 <p align="center">👩‍💻 Data Scientist • 🎨 Artist • 🎮 Let's Player • 🌵 Cactus lover</p>
@@ -89,7 +88,7 @@
 
 --- 
 
-## 🏆 GitHub Трофеи
+## 🏆 GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SuperYanka&theme=dracula&margin-w=10&margin-h=15&no-frame=true" />
