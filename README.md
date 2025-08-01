@@ -17,10 +17,13 @@
 
 ## 🌸 About Me
 
-- 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології" / I graduated from KPI in "Automation and Computer-Integrated Technologies"
-- 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP / Passionate about AI, especially LLMs and NLP
-- 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день! / Aspiring ML/LLM Engineer — learning daily!
-- 🌐 Сайт: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/) / Website
+- 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології" /
+-  I graduated from KPI in "Automation and Computer-Integrated Technologies"
+- 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP /
+- Passionate about AI, especially LLMs and NLP
+- 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день! /
+- Aspiring ML/LLM Engineer. Learning daily!
+- 🌐 Website: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/💖_100%25-Креативная / Creative-purple?style=for-the-badge" />
