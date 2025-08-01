@@ -120,7 +120,7 @@
 
 - 📊 Обожаю делать красивые графики и дашборды / I love beautiful graphs and dashboards  
 - 🌵 Коллекционирую кактусы (моего главного зовут Стас) / I collect cacti (my main one is named Stas)
-- 🎼 Играю на музыкальных инструментах / I play musical instrumen
+- 🎼 Играю на музыкальных инструментах / I play musical instruments
 - 🎨 Рисую, обожаю цифровое творчество и визуальный стиль / I draw, I love digital creativity and visual style
 - 🎮 Веду YouTube-канал с летсплеями / I run the YouTube channel with letsplays: [@superyankaplay](https://www.youtube.com/@superyankaplay)
 
