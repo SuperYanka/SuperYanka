@@ -5,20 +5,6 @@
   style="filter: drop-shadow(0 0 12px #00ffe1); animation: glow 2s infinite alternate;" />
 </p>
 
-<style>
-@keyframes glow {
-  from {
-    filter: drop-shadow(0 0 8px #00ffe1);
-  }
-  to {
-    filter: drop-shadow(0 0 20px #ff00ff);
-  }
-}
-</style>
-
-
-
-
 <p align="center">👩‍💻 Data Scientist • 🎨 Художница • 🎮 YouTube-геймерша • 🌵 Любительница кактусов</p>
 
 
