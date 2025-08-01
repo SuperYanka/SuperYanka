@@ -34,7 +34,7 @@
 ## 🌈 Мои технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,pytorch,docker,fastapi,html,css,js,jupyter,git,github,postgres,figma,vscode,canva&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,matplotlib,seaborn,nltk,spacy,pytorch,fastapi,docker,jupyter,html,css,js,git,github,postgres,mysql,canva,figma,photoshop,vscode&perline=7" />
 </p>
 
 ---
