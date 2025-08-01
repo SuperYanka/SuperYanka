@@ -33,11 +33,53 @@
 
 ## 🌈 Мои технологии
 
+### 🧠 Data Science & Machine Learning
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,html,css,js,git,github,postgres,mysql,figma,photoshop,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,matlab&perline=7" />
 </p>
 
 ---
+
+### 🛠️ Backend, DevOps & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,netlify&perline=7" />
+</p>
+
+---
+
+### 🌐 Frontend & Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,phpstorm&perline=7" />
+</p>
+
+---
+
+### 🗃️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=7" />
+</p>
+
+---
+
+### 🎨 Design, Media & Creativity
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender&perline=7" />
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,windows,gmail,linkedin,discord&perline=7" />
+</p>
+
+--- 
 
 ## 🏆 GitHub Трофеи
 
