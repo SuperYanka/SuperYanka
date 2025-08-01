@@ -27,9 +27,9 @@
 - 🌐 Website: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/) 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💖_100%25-Креативная / Creative-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_100%25-Аналитичная / Analytical-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌵_Люблю-КАКТУСОВ / Cactus Fan-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_100%25-Analytical-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌵_Люблю-Cactus Fan-brightgreen?style=for-the-badge" />
 </p>
 
 ---
