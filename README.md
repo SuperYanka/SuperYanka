@@ -135,6 +135,29 @@
   <a href="https://superyanka-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+
+## 📸 Random Gallery / Случайная галерея
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2023/10/12/20/30/rainbows-8311775_1280.jpg" width="220px" style="margin: 10px;" />
+  <img src="https://cdn.pixabay.com/photo/2023/10/12/20/30/rainbows-8311775_1280.jpg" width="220px" style="margin: 10px;" />
+  <img src="https://cdn.pixabay.com/photo/2023/10/12/20/30/rainbows-8311775_1280.jpg" width="220px" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2023/10/12/20/30/rainbows-8311775_1280.jpg" width="220px" style="margin: 10px;" />
+  <img src="https://cdn.pixabay.com/photo/2023/10/12/20/30/rainbows-8311775_1280.jpg" width="220px" style="margin: 10px;" />
+  <img src="https://cdn.pixabay.com/photo/2023/10/12/20/30/rainbows-8311775_1280.jpg" width="220px" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <a href="https://superyanka-website.netlify.app/" target="_blank">🌈 See more on my website / Больше фото на сайте →</a>
+</p>
+
+
+
+
+
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/satoki/kitty/main/neon.gif" width="160px" alt="Neon Cat">
