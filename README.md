@@ -1,40 +1,41 @@
-<h1 align="center">Приветик! Меня зовут Яна 💖</h1>
+<h1 align="center">>Приветик! Меня зовут Яна 💖 / Hi! I'm Yana 💖</h1>
 
 <p align="center">
   <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="200px" alt="SuperYanka Logo"
   style="filter: drop-shadow(0 0 12px #00ffe1); animation: glow 2s infinite alternate;" />
 </p>
 
-<p align="center">👩‍💻 Data Scientist • 🎨 Художница • 🎮 YouTube-геймерша • 🌵 Любительница кактусов</p>
+<p align="center">👩‍💻 Data Scientist • 🎨 Художница / Artist • 🎮 YouTube-геймерша / Let's Player • 🌵 Кактус-адораторка / Cactus lover</p>
 
 
-<h1 align="center">✨ Добро пожаловать в мой мир! ✨</h1>
+<h1 align="center">✨ Добро пожаловать в мой мир! / Welcome to my world! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=435&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;Сайт%3A+superyanka-website.netlify.app" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=435&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌸 Обо мне
+## 🌸 About Me
 
-- 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології"
-- 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP
-- 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день!
-- 🌐 Сайт: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/)
+- 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології" / I graduated from KPI in "Automation and Computer-Integrated Technologies"
+- 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP / Passionate about AI, especially LLMs and NLP
+- 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день! / Aspiring ML/LLM Engineer — learning daily!
+- 🌐 Сайт: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/) / Website
+
 <p align="center">
-  <img src="https://img.shields.io/badge/💖_100%25-Креативная-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_100%25-Аналитичная-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌵_Люблю-КАКТУСОВ-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💖_100%25-Креативная / Creative-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_100%25-Аналитичная / Analytical-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌵_Люблю-КАКТУСОВ / Cactus Fan-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 График моей активности на GitHub
+### 📊 GitHub Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperYanka&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
-## 🌈 Мои технологии
+## 🌈 My Technologies
 
 ### 🧠 Data Science & Machine Learning
 
@@ -92,38 +93,36 @@
 
 ---
 
-## 📈 GitHub Статы
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuperYanka&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperYanka&layout=compact&theme=tokyonight" height="165">
 </p>
 
-
-
 ---
 
-## 🎨 Проекты
+## 🎨 Projects
 
-| Проект | Описание | Ссылки |
+| Project  | Description  | Links  |
 |--------|----------|--------|
-| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
-| 📊 **House Prices** | Прогнозирование цены продажи дома | [GitHub](https://github.com/SuperYanka/house-prices-regression) [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
-| 🌐 **Персональный сайт** | Анимированный автобиографический сайт | [Live](https://superyanka-website.netlify.app/) [GitHub](https://github.com/SuperYanka/superyanka-website) |
+| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив / Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
+| 📊 **House Prices** | Прогнозирование цены продажи дома / House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
+| 🌐 **Personal Website** | Анимированный автобиографический сайт / Neon animated portfolio | [Live](https://superyanka-website.netlify.app/) [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 ---
 
-## 🧁 Фан-факты
+## 🧁 Fun Facts
 
-- 📊 Обожаю делать красивые графики и дашборды
-- 🌵 Коллекционирую кактусы (моего главного зовут Стас)
-- 🎼 Играю на музыкальных инструментах
-- 🎨 Рисую, обожаю цифровое творчество и визуальный стиль
-- 🎮 Веду YouTube-канал с летсплеями: [@superyankaplay](https://www.youtube.com/@superyankaplay)
+- 📊 Обожаю делать красивые графики и дашборды / I love beautiful graphs and dashboards  
+- 🌵 Коллекционирую кактусы (моего главного зовут Стас) / I collect cacti (my main one is named Stas)
+- 🎼 Играю на музыкальных инструментах / I play musical instrumen
+- 🎨 Рисую, обожаю цифровое творчество и визуальный стиль / I draw, I love digital creativity and visual style
+- 🎮 Веду YouTube-канал с летсплеями / I run the YouTube channel with letsplays: [@superyankaplay](https://www.youtube.com/@superyankaplay)
 
 ---
 
-## 💌 Связь
+## 💌 Contact
 
 <p align="center">
   <a href="https://t.me/neadekvattttt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
