@@ -5,7 +5,7 @@
   style="filter: drop-shadow(0 0 12px #00ffe1); animation: glow 2s infinite alternate;" />
 </p>
 
-<p align="center">👩‍💻 Data Scientist • 🎨 Художница / Artist • 🎮 YouTube-геймерша / Let's Player • 🌵 Кактус-адораторка / Cactus lover</p>
+<p align="center">👩‍💻 Data Scientist • 🎨 Artist • 🎮 Let's Player • 🌵 Cactus lover</p>
 
 
 <h1 align="center">✨ Добро пожаловать в мой мир! / Welcome to my world! ✨</h1>
