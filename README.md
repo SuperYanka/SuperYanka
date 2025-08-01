@@ -31,6 +31,6 @@
 
 ### 💌 Связь
 
-- 📫 Telegram: [@superyanka]([https://t.me/superyanka](https://t.me/neadekvattttt))
-- 💼 LinkedIn: [Ссылка]([https://linkedin.com/in/твоя-ссылка](https://www.linkedin.com/in/superyanka/))
+- 📫 Telegram: [@superyanka](https://t.me/superyanka)
+- 💼 LinkedIn: [Ссылка]([[https://linkedin.com/in/твоя-ссылка](https://www.linkedin.com/in/superyanka/)
 - 🌐 Мой сайт: [superyanka.netlify.app](https://superyanka.netlify.app)
