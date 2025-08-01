@@ -1,6 +1,7 @@
+<h1 align="center">Приветик! Меня зовут Яна 💖</h1>
+
 <p align="center">
-  <img src="superyanka_logo.png" width="60px" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="font-size: 30px; font-weight: bold;">Приветик! Меня зовут Яна 💖</span>
+  <img src="superyanka_logo.png" width="160px" alt="SuperYanka Logo" />
 </p>
 
 
