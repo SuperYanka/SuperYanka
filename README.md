@@ -7,29 +7,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=435&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;Сайт%3A+superyanka.netlify.app" alt="Typing SVG" />
 </p>
-- 🎓 Я закончила КПИ и учусь быть специалисткой по ИИ
-- 🖌 Люблю рисовать, программировать и делать что-то своё
-- 🎮 YouTube-канал: [@superyankaplay](https://www.youtube.com/@superyankaplay)
-- 🧠 Мои проекты: Data Science, сайты, нейросети ✨
 
 ---
 
-### 🛠️ Навыки
+## 🌸 Обо мне
 
-![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-### 📈 Статистика
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SuperYanka&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperYanka&layout=compact&theme=tokyonight)
+- 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології"
+- 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP
+- 🎨 Рисую с детства, обожаю цифровое творчество и визуальный стиль
+- 🎮 Веду YouTube-канал: [@superyankaplay](https://www.youtube.com/@superyankaplay)
+- 🌐 Сайт: [superyanka.netlify.app](https://superyanka.netlify.app)
+- 🌵 Забочусь о своих кактусах (мой главный — Коля)
 
 ---
+
 ### 📊 График моей активности на GitHub
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperYanka&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -60,16 +51,6 @@
 
 ---
 
-## 🔊 Сейчас я слушаю
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/music.gif" width="250">
-  <br>
-  <strong>Now playing:</strong> <em>Имя трека — Исполнитель</em><br>
-  <a href="https://music.youtube.com/watch?v=ID_ТРЕКА">🎧 Открыть в YouTube Music</a>
-</p>
----
-
 ## 🎨 Проекты
 
 | Проект | Описание | Ссылки |
@@ -82,19 +63,21 @@
 
 ## 🧁 Фан-факты
 
-- У меня **именной кактус**, зовут его Коля
-- Я рисовала **более 200 артов**
-- Я монтирую и озвучиваю видео **сама**
-- Я верю, что девочки могут **всё** 💪
+- I'm into visualization and beautiful graphs 📊
+- I collect cacti 🌵 (my main one is called Stas 😄)
+- I run my own channel on YouTube Super Yanka
+- I like to play musical instruments
 
 ---
 
-## 🪞 Контакты
+## 💌 Связь
 
 <p align="center">
-  <a href="https://t.me/superyanka"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/neadekvattttt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@superyankaplay"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/твоя-ссылка"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/superyanka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://superyanka.netlify.app<img src="///"/></a>
+
 </p>
 
 ---
@@ -102,11 +85,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </p>
-
-
-
-### 💌 Связь
-
-- 📫 Telegram: [@superyanka](https://t.me/superyanka)
-- 💼 LinkedIn: [Ссылка](https://www.linkedin.com/in/superyanka/)
-- 🌐 Мой сайт: [superyanka.netlify.app](https://superyanka.netlify.app)
