@@ -6,7 +6,7 @@
 
 
 <p align="center">👩‍💻 Data Scientist • 🎨 Художница • 🎮 YouTube-геймерша • 🌵 Любительница кактусов</p>
----
+
 
 <h1 align="center">✨ Добро пожаловать в мой мир! ✨</h1>
 <p align="center">
