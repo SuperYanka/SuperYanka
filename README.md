@@ -60,22 +60,14 @@
 
 ---
 
-## 🪐 Где я сейчас
-
-<p align="center">
-  <img src="https://github-readme-location.vercel.app/api?username=SuperYanka" />
-</p>
-
----
-
 ## 🔊 Сейчас я слушаю
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31f4hnnf4erfhj3npzmgvx3z2c2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/music.gif" width="250">
+  <br>
+  <strong>Now playing:</strong> <em>Имя трека — Исполнитель</em><br>
+  <a href="https://music.youtube.com/watch?v=ID_ТРЕКА">🎧 Открыть в YouTube Music</a>
 </p>
-
-> ⚠️ *Нужно указать свой `Spotify user ID`, если хочешь видеть живую музыку — я помогу, если дашь ссылку!*
-
 ---
 
 ## 🎨 Проекты
