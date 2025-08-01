@@ -1,7 +1,7 @@
 <h1 align="center">Приветик! Меня зовут Яна 💖</h1>
 
 <p align="center">
-  <img src="superyanka_logo.png" width="160px" alt="SuperYanka Logo" />
+  <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="160px" alt="SuperYanka Logo" />
 </p>
 
 
@@ -10,7 +10,7 @@
 
 <h1 align="center">✨ Добро пожаловать в мой мир! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=435&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;Сайт%3A+superyanka.netlify.app" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=435&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;Сайт%3A+superyanka-website.netlify.app" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології"
 - 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP
 - 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день!
-- 🌐 Сайт: [superyanka.netlify.app](https://superyanka-website.netlify.app/)
+- 🌐 Сайт: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/)
 
 ---
 
@@ -112,9 +112,7 @@
 - 🌵 Коллекционирую кактусы (моего главного зовут Стас)
 - 🎼 Играю на музыкальных инструментах
 - 🎨 Рисую, обожаю цифровое творчество и визуальный стиль
-- 🎮 Веду YouTube-канал: [@superyankaplay](https://www.youtube.com/@superyankaplay)
-
-
+- 🎮 Веду YouTube-канал с летсплеями: [@superyankaplay](https://www.youtube.com/@superyankaplay)
 
 ---
 
