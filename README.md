@@ -28,8 +28,10 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperYanka&layout=compact&theme=tokyonight)
 
 ---
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 График моей активности на GitHub
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperYanka&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 
 ### 💌 Связь
