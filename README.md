@@ -1,7 +1,8 @@
 <p align="center">
-  <span style="font-size: 32px;"><strong>Приветик! Меня зовут Яна 💖</strong></span>
-  <img src="superyanka_logo.png" width="60px" alt="SuperYanka Logo" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="superyanka_logo.png" width="60px" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="font-size: 30px; font-weight: bold;">Приветик! Меня зовут Яна 💖</span>
 </p>
+
 
 <p align="center">👩‍💻 Data Scientist • 🎨 Художница • 🎮 YouTube-геймерша • 🌵 Любительница кактусов</p>
 ---
