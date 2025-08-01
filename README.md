@@ -1,8 +1,5 @@
-<h1 align="center">Приветик! Меня зовут Яна 💖</h1>
+<h1 align="center">Приветик! Меня зовут Яна 💖</h1><img src="superyanka_logo.png" width="200px" alt="SuperYanka Logo" />
 <p align="center">👩‍💻 Data Scientist • 🎨 Художница • 🎮 YouTube-геймерша • 🌵 Любительница кактусов</p>
-<p align="center">
-  <img src="superyanka_logo.png" width="200px" alt="SuperYanka Logo" />
-</p>
 ---
 
 <h1 align="center">✨ Добро пожаловать в мой мир! ✨</h1>
