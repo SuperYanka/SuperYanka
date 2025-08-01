@@ -1,6 +1,8 @@
 <h1 align="center">Приветик! Меня зовут Яна 💖</h1>
 <p align="center">👩‍💻 Data Scientist • 🎨 Художница • 🎮 YouTube-геймерша • 🌵 Любительница кактусов</p>
-
+<p align="center">
+  <img src="superyanka_logo.png" width="200px" alt="SuperYanka Logo" />
+</p>
 ---
 
 <h1 align="center">✨ Добро пожаловать в мой мир! ✨</h1>
@@ -29,7 +31,7 @@
 ## 🌈 Мои технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,html,css,js,git,github,linux,postgres,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,pytorch,docker,fastapi,html,css,js,jupyter,git,github,postgres,figma,vscode,canva&perline=7" />
 </p>
 
 ---
@@ -55,9 +57,9 @@
 
 | Проект | Описание | Ссылки |
 |--------|----------|--------|
-| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив | [GitHub](#) [Kaggle](#) |
-| 📊 **Airbnb NYC** | Анализ цен и районов Нью-Йорка | [GitHub](#) [Kaggle](#) |
-| 🌐 **Персональный сайт** | Неоновый SPA-сайт о себе | [Live](https://superyanka.netlify.app) [GitHub](#) |
+| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
+| 📊 **House Prices** | Прогнозирование цены продажи дома | [GitHub](https://github.com/SuperYanka/house-prices-regression) [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
+| 🌐 **Персональный сайт** | Анимированный автобиографический сайт | [Live](https://superyanka.netlify.app) [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 ---
 
@@ -77,7 +79,7 @@
   <a href="https://t.me/neadekvattttt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@superyankaplay"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/superyanka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://superyanka.netlify.app"><img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://superyanka-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
