@@ -24,7 +24,7 @@
 - 🤖 Passionate about AI, especially LLMs and NLP
 - 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день! /
 - 🧠 Aspiring ML/LLM Engineer. Learning daily!
-- 🌐 Website: [superyanka-website.netlify.app](https://superyanka-website.netlify.app/) 
+- 🌐 Website: <a href="https://superyanka-website.netlify.app/" target="_blank">superyanka-website.netlify.app</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=for-the-badge" />
@@ -110,9 +110,10 @@
 
 | Project  | Description  | Links  |
 |--------|----------|--------|
-| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив / Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
-| 📊 **House Prices** | Прогнозирование цены продажи дома / House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
-| 🌐 **Personal Website** | Анимированный автобиографический сайт / Neon animated portfolio | [Live](https://superyanka-website.netlify.app/) [GitHub](https://github.com/SuperYanka/superyanka-website) |
+| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив / Sentiment classification of IMDB reviews | <a href="https://github.com/SuperYanka/imdb-sentiment-analysis-nlp" target="_blank">GitHub</a> <a href="https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb" target="_blank">Kaggle</a> |
+| 📊 **House Prices** | Прогнозирование цены продажи дома / House price prediction project | <a href="https://github.com/SuperYanka/house-prices-regression" target="_blank">GitHub</a> <a href="https://www.kaggle.com/code/yaninakostiv/eda-house-prices" target="_blank">Kaggle</a> |
+| 🌐 **Personal Website** | Анимированный автобиографический сайт / Neon animated portfolio | <a href="https://superyanka-website.netlify.app/" target="_blank">Live</a> <a href="https://github.com/SuperYanka/superyanka-website" target="_blank">GitHub</a> |
+
 
 ---
 
@@ -122,7 +123,7 @@
 - 🌵 Коллекционирую кактусы (моего главного зовут Стас) / I collect cacti (my main one is named Stas)
 - 🎼 Играю на музыкальных инструментах / I play musical instruments
 - 🎨 Рисую, обожаю цифровое творчество и визуальный стиль / I draw, I love digital creativity and visual style
-- 🎮 Веду YouTube-канал с летсплеями / I run the YouTube channel with letsplays: [@superyankaplay](https://www.youtube.com/@superyankaplay)
+- 🎮 Веду YouTube-канал с летсплеями / I run the YouTube channel with letsplays: <a href="https://www.youtube.com/@superyankaplay" target="_blank">@superyankaplay</a>
 
 ---
 
