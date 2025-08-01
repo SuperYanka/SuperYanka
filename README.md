@@ -1,4 +1,4 @@
-<h1 align="center">>Приветик! Меня зовут Яна 💖 / Hi! I'm Yana 💖</h1>
+<h1 align="center">Приветик! Меня зовут Яна 💖 / Hi! I'm Yana 💖</h1>
 
 <p align="center">
   <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="200px" alt="SuperYanka Logo"
