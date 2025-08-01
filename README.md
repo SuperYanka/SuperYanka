@@ -1,7 +1,23 @@
 <h1 align="center">Приветик! Меня зовут Яна 💖</h1>
 
 <p align="center">
-  <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="160px" alt="SuperYanka Logo" />
+  <img src="https://raw.githubusercontent.com/SuperYanka/superyanka-website/main/assets/логотип.png" width="200px" alt="SuperYanka Logo"
+  style="filter: drop-shadow(0 0 12px #00ffe1); animation: glow 2s infinite alternate;" />
+</p>
+
+<style>
+@keyframes glow {
+  from {
+    filter: drop-shadow(0 0 8px #00ffe1);
+  }
+  to {
+    filter: drop-shadow(0 0 20px #ff00ff);
+  }
+}
+</style>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Добро%20пожаловать%20в%20мой%20мир!&fontSize=30&fontColor=00ffe1&animation=fadeIn" />
 </p>
 
 
@@ -94,7 +110,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperYanka&layout=compact&theme=tokyonight" height="165">
 </p>
 
+
+
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/💖_100%25-Креативная-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_100%25-Аналитичная-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌵_Люблю-КАКТУСОВ-brightgreen?style=for-the-badge" />
+</p>
 
 ## 🎨 Проекты
 
@@ -126,7 +149,11 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satoki/kitty/main/neon.gif" width="160px" alt="Neon Cat">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </p>
+
+<!-- 🪄 Привет тому, кто смотрит код... Ты нашёл тайное послание от Яны! 🌟 -->
