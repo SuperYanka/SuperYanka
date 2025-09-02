@@ -1,4 +1,4 @@
-<h1 align="center">Приветик! Меня зовут Яна 💖 / Hi! I'm Yana 💖</h1>
+<h1 align="center">Hi! I'm Yana 💖</h1>
 
 <p align="center">
   <img src="https://github.com/SuperYanka/SuperYanka/blob/main/superyanka_logo.png" width="200px" alt="SuperYanka Logo"/>
@@ -7,9 +7,9 @@
 <p align="center">👩‍💻 Data Scientist • 🎨 Artist • 🎮 Let's Player • 🌵 Cactus lover</p>
 
 
-<h1 align="center">✨ Добро пожаловать в мой мир! / Welcome to my world! ✨</h1>
+<h1 align="center">✨ Welcome to my world! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=Я+-+Яна%2C+создаю+красоту+в+коде+и+жизни.;Я+рисую%2C+кодю+и+снимаю+летсплеи.;Люблю+ИИ%2C+музыку%2C+и+кактусы+%F0%9F%8C%B5;I'm+Yana%2C+creating+beauty+in+code+and+life.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=I'm+Yana%2C+creating+beauty+in+code+and+life.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
 </p>
 
 
@@ -17,18 +17,15 @@
 
 ## 🌸 About Me
 
-- 🎓 Я закончила КПИ по специальности "Автоматизация та комп’ютерно-інтегровані технології" /
-- 🎓I graduated from KPI in "Automation and Computer-Integrated Technologies"
-- 🤖 Увлекаюсь искусственным интеллектом, особенно LLM и NLP /
-- 🤖 Passionate about AI, especially LLMs and NLP
-- 🧠 Хочу стать ML/LLM-инженером, работаю над этим каждый день! /
-- 🧠 Aspiring ML/LLM Engineer. Learning daily!
+- 🎓 Graduated from KPI in *Automation and Computer-Integrated Technologies*
+- 🤖 Passionate about Artificial Intelligence, especially LLMs and NLP
+- 🧠 Aspiring ML/LLM Engineer. Learning and growing daily!
 - 🌐 Website: <a href="https://superyanka-website.netlify.app/" target="_blank">superyanka-website.netlify.app</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧠_100%25-Analytical-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌵_Люблю-Cactus Fan-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌵_Cactus-Cactus Fan-brightgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -83,7 +80,7 @@
 ### ⚙️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,windows,gmail,linkedin,discord&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord&perline=7" />
 </p>
 
 --- 
@@ -109,20 +106,20 @@
 
 | Project  | Description  | Links  |
 |--------|----------|--------|
-| 🧠 **Sentiment Analysis** | Анализ отзывов IMDB на позитив/негатив / Sentiment classification of IMDB reviews | <a href="https://github.com/SuperYanka/imdb-sentiment-analysis-nlp" target="_blank">GitHub</a> <a href="https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb" target="_blank">Kaggle</a> |
-| 📊 **House Prices** | Прогнозирование цены продажи дома / House price prediction project | <a href="https://github.com/SuperYanka/house-prices-regression" target="_blank">GitHub</a> <a href="https://www.kaggle.com/code/yaninakostiv/eda-house-prices" target="_blank">Kaggle</a> |
-| 🌐 **Personal Website** | Анимированный автобиографический сайт / Neon animated portfolio | <a href="https://superyanka-website.netlify.app/" target="_blank">Live</a> <a href="https://github.com/SuperYanka/superyanka-website" target="_blank">GitHub</a> |
+| 🧠 **Sentiment Analysis** | Sentiment classification of IMDB reviews | <a href="https://github.com/SuperYanka/imdb-sentiment-analysis-nlp" target="_blank">GitHub</a> <a href="https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb" target="_blank">Kaggle</a> |
+| 📊 **House Prices** | House price prediction project | <a href="https://github.com/SuperYanka/house-prices-regression" target="_blank">GitHub</a> <a href="https://www.kaggle.com/code/yaninakostiv/eda-house-prices" target="_blank">Kaggle</a> |
+| 🌐 **Personal Website** | Neon animated autobiographical portfolio website | <a href="https://superyanka-website.netlify.app/" target="_blank">Live</a> <a href="https://github.com/SuperYanka/superyanka-website" target="_blank">GitHub</a> |
 
 
 ---
 
 ## 🧁 Fun Facts
 
-- 📊 Обожаю делать красивые графики и дашборды / I love beautiful graphs and dashboards  
-- 🌵 Коллекционирую кактусы (моего главного зовут Стас) / I collect cacti (my main one is named Stas)
-- 🎼 Играю на музыкальных инструментах / I play musical instruments
-- 🎨 Рисую, обожаю цифровое творчество и визуальный стиль / I draw, I love digital creativity and visual style
-- 🎮 Веду YouTube-канал с летсплеями / I run the YouTube channel with letsplays: <a href="https://www.youtube.com/@superyankaplay" target="_blank">@superyankaplay</a>
+- 📊 I love creating beautiful graphs and dashboards  
+- 🌵 I collect cacti (my main one is named Stas)  
+- 🎼 I play musical instruments  
+- 🎨 I love drawing, digital creativity, and design  
+- 🎮 I run a YouTube channel with let's plays: <a href="https://www.youtube.com/@superyankaplay" target="_blank">@superyankaplay</a>  
 
 ---
 
@@ -143,4 +140,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </p>
 
-<!-- 🪄 Привет тому, кто смотрит код... Ты нашёл тайное послание от Яны! 🌟 -->
+<!-- 🪄 Hello to the one reading the code... You’ve found Yana's secret message! 🌟 -->
