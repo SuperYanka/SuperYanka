@@ -74,7 +74,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord,md&perline=7" />
 </p>
 
 --- 
