@@ -9,7 +9,7 @@
 
 <h1 align="center">✨ Welcome to my world! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=I'm+Yana%2C+creating+beauty+in+code+and+life.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=I'm+Yana%2C+creating+beauty+in+code+and+life.;I+use%2C+arch%2C+btw.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
 </p>
 
 
