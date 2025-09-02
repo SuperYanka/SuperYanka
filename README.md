@@ -39,7 +39,7 @@
 
 ### 🧠 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,matlab,jupyter,numpy,pandas,seaborn,matplotlib&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,matlab&perline=7" />
 </p>
 
 ---
@@ -67,14 +67,14 @@
 
 ### 🎨 Design, Media & Creativity
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,canva,kdenlive&perline=7" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender&perline=7" />
 </p>
 
 ---
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord,kaggle,telegram&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord&perline=7" />
 </p>
 
 --- 
