@@ -38,49 +38,43 @@
 ## 🌈 My Technologies
 
 ### 🧠 Data Science & Machine Learning
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,matlab&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,matlab,jupyter,numpy,pandas,seaborn,matplotlib&perline=7" />
 </p>
 
 ---
 
 ### 🛠️ Backend, DevOps & Deployment
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,netlify,bash&perline=7" />
 </p>
 
 ---
 
 ### 🌐 Frontend & Web Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,phpstorm&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,phpstorm,react,astro&perline=7" />
 </p>
 
 ---
 
 ### 🗃️ Databases
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=7" />
 </p>
 
 ---
 
 ### 🎨 Design, Media & Creativity
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender&perline=7" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,canva,kdenlive&perline=7" />
 </p>
 
 ---
 
 ### ⚙️ Tools & Platforms
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vscode,arch,linux,gmail,linkedin,discord,kaggle,telegram&perline=7" />
 </p>
 
 --- 
