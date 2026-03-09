@@ -17,7 +17,7 @@
 
 | 🎓 Education | 🤖 Interested in: | 
 |--------------|-----------|
-| Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems |
+| Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems • Intelligent control |
 
 <p align="center">
   <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=flat-square" />
@@ -29,9 +29,9 @@
 
 | Project | Description | Technologies |
 |--------|-------------|-------------|
-| 🔥 Furnace Control System | Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
-| ⚙️ PLC Control Systems | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
-| 🌐 Industrial IoT Furnace | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
+| 🔥  [Furnace Control System](link) | Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
+| ⚙️ [PLC Control Systems](link) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
+| 🌐 [Industrial IoT Furnace](link) | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
 
 
 <!-- 
@@ -165,7 +165,7 @@
 
 ---
 
-## 🎨 Projects
+## Machine Learning Projects
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🧠 **Sentiment Analysis** | Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
