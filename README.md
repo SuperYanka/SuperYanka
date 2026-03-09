@@ -24,12 +24,12 @@
 </p>
 
 ---
-
+/*
 ## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperYanka&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true" />
 </p>
-
+*/
 ---
 
 ## 🌈 My Tech Stack
