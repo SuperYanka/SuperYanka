@@ -8,7 +8,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠_100%25-Analytical-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌵_Cactus-Fan-brightgreen?style=flat-square" />
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=I'm+Yana%2C+creating+beauty+in+code+and+life.;I+use+arch%2C+btw.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
+</p>
 </p>
 
 ---
@@ -17,22 +23,19 @@
 
 | 🎓 Education | 🤖 Interested in: | 
 |--------------|-----------|
-| Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems • Intelligent control |
+| Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧠_100%25-Analytical-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌵_Cactus-Fan-brightgreen?style=flat-square" />
-</p>
 
 ## <p align="center"> ⚙️ Engineering Projects ⚙️</p>
+<p align="center">
 
 | Project | Description | Technologies |
 |--------|-------------|-------------|
-| 🔥  [Furnace Control System](link) | Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
-| ⚙️ [PLC Control Systems](link) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
-| 🌐 [Industrial IoT Furnace](link) | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
+| 🔥 Furnace Control System | Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
+| ⚙️ PLC Control Systems | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
+| 🌐 Industrial IoT Furnace | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
 
+</p>
 
 <!-- 
 ## 📊 GitHub Activity
@@ -42,7 +45,7 @@
 -->
 
 
-## <p align="center">My Tech Stack</p>
+## <p align="center"> My Tech Stack</p>
 
 | Data Science & ML | Backend & DevOps | Frontend & Web |
 |----------------------|----------------------|------------------|
@@ -70,30 +73,47 @@
 
 
 
-## <p align="center"> Projects</p>
+## <p align="center"> Machine Learning Projects</p>
+<p align="center">
+
 | Project | Description | Links |
-|---------|-------------|-------|
+|:--|:--|:--|
 | 🧠 **Sentiment Analysis** | Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
 | 📊 **House Prices** | House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
 | 🌐 **Personal Website** | Neon animated autobiographical portfolio website | [Live](https://superyanka-website.netlify.app/) · [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
-
-## <p align="center">🧁 Fun Facts 🧁</p>
-| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |
-|----------|----------|---------------|------------|
-| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |
-
----
-
-## Contact
-<p align="center">
-  <a href="https://t.me/neadekvattttt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@superyankaplay"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/superyanka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://superyanka-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+
+## <p align="center">🧁 Fun Facts 🧁</p>
+<p align="center">
+
+| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |
+|:--|:--|:--|:--|
+| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |
+
+</p>
+
+
+
+<h2 align="center">💌 Contact 💌</h2>
+
+<p align="center">
+  <a href="https://t.me/neadekvattttt">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@superyankaplay">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/superyanka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://superyanka-website.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/satoki/kitty/main/neon.gif" width="140px" alt="Neon Cat"><br>
