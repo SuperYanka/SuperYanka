@@ -31,9 +31,9 @@
 
 | Project | Description | Technologies |
 |--------|-------------|-------------|
-| 🔥 Furnace Control System | Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
-| ⚙️ PLC Control Systems | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
-| 🌐 Industrial IoT Furnace | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
+| 🔥 [Furnace Control System](https://github.com/SuperYanka/vacuum-distillation-control-system) | Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
+| ⚙️ [PLC Control Systems](https://github.com/SuperYanka/) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
+| 🌐 [Industrial IoT Furnace](https://github.com/SuperYanka/) | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
 
 </p>
 
