@@ -87,9 +87,9 @@
 ## <p align="center">🧁 Fun Facts 🧁</p>
 <p align="center">
 
-| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |🌐Personal Website
+| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |🌐 [Personal Website](https://superyanka-website.netlify.app/)
 |:--|:--|:--|:--|:--|
-| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |  Neon animated autobiographical portfolio website | [Live](https://superyanka-website.netlify.app/) · [GitHub](https://github.com/SuperYanka/superyanka-website) |
+| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |  Neon animated autobiographical portfolio website [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 </p>
 
