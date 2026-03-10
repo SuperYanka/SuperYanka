@@ -80,7 +80,6 @@
 |:--|:--|:--|
 | 🧠 **Sentiment Analysis** | Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
 | 📊 **House Prices** | House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
-| 🌐 **Personal Website** | Neon animated autobiographical portfolio website | [Live](https://superyanka-website.netlify.app/) · [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 </p>
 
@@ -88,9 +87,9 @@
 ## <p align="center">🧁 Fun Facts 🧁</p>
 <p align="center">
 
-| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |
-|:--|:--|:--|:--|
-| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |
+| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |🌐Personal Website
+|:--|:--|:--|:--|:--|
+| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |  Neon animated autobiographical portfolio website | [Live](https://superyanka-website.netlify.app/) · [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 </p>
 
