@@ -33,7 +33,7 @@
 |--------|-------------|-------------|
 | 🔥 [Furnace Control System](https://github.com/SuperYanka/vacuum-distillation-control-system) | Diploma. Mathematical modeling and PI/MPC control of tubular furnace | MATLAB, Simulink |
 | ⚙️ [PLC Control Systems](https://github.com/SuperYanka/plc-discrete-output-control) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD |
-| 🌐 [Industrial IoT Furnace](https://github.com/SuperYanka/) | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
+| 🌐 [Industrial IoT Furnace](https://github.com/SuperYanka/esp32-iot-furnace-monitoring) | ESP32 based monitoring system using MQTT | ESP32, MQTT, Flask |
 
 </p>
 
