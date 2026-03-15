@@ -37,6 +37,18 @@
 
 </p>
 
+## <p align="center"> 🤖 Machine Learning Projects 🤖 </p>
+<p align="center">
+
+| Project | Description | Links |
+|:--|:--|:--|
+| 🧠 **Sentiment Analysis** | Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
+| 📊 **House Prices** | House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
+
+</p>
+
+
+
 <!-- 
 ## 📊 GitHub Activity
 <p align="center">
@@ -73,15 +85,7 @@
 
 
 
-## <p align="center"> Machine Learning Projects</p>
-<p align="center">
 
-| Project | Description | Links |
-|:--|:--|:--|
-| 🧠 **Sentiment Analysis** | Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) |
-| 📊 **House Prices** | House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) |
-
-</p>
 
 
 ## <p align="center">🧁 Fun Facts 🧁</p>
