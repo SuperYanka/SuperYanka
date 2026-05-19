@@ -11,11 +11,12 @@
   <img src="https://img.shields.io/badge/💖_100%25-Creative-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/🧠_100%25-Analytical-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/🌵_Cactus-Fan-brightgreen?style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=06f3b3&center=true&vCenter=true&width=600&lines=I'm+Yana%2C+creating+beauty+in+code+and+life.;I+use+arch%2C+btw.;I+draw%2C+code%2C+and+record+let's+plays.;I+love+AI%2C+music%2C+and+cacti." alt="Typing SVG" />
 </p>
-</p>
+
 
 ---
 
@@ -24,32 +25,35 @@
 | 🎓 Education | 🤖 Interested in: | 
 |--------------|-----------|
 | Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems |
+
 <p align="center">
-<img src="ascii-art-text-portfolio-1.png" /></br>
-  🢃  🢃  🢃</br>
-[Portfolio](https://sites.google.com/view/kostiv-yanina-portfolio/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)</p>
+  <img src="ascii-art-text-portfolio-1.png" /><br><br>
+  ⬇️ ⬇️ ⬇️<br><br>
+  <a href="https://sites.google.com/view/kostiv-yanina-portfolio/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0">
+    Portfolio
+  </a>
+</p>
+
 
 ## <p align="center"> ⚙️ Engineering Projects ⚙️</p>
-<p align="center">
 
 | Project | Description | Links | Technologies |
-|--------|-------------|-------------|------------|
-| 🔥 [Furnace Control System](https://github.com/SuperYanka/vacuum-distillation-control-system) | Diploma. Mathematical modeling and PI/MPC control of tubular furnace | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) [Website](https://sites.google.com/view/kostiv-vdm-automation?usp=sharing)|  MATLAB, Simulink |
-| ⚙️ [PLC Control Systems](https://github.com/SuperYanka/plc-discrete-output-control) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | CoDeSys, ST, FBD | 
-| 🌐 [Industrial IoT Furnace](https://github.com/SuperYanka/esp32-iot-furnace-monitoring) | ESP32 based monitoring system using MQTT  | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | ESP32, MQTT, Flask |
+|:--|:--|:--:|:--|
+| 🔥 **[Furnace Control System](https://github.com/SuperYanka/vacuum-distillation-control-system)** | Diploma project: mathematical modeling and PI/MPC control of a tubular furnace. | [GitHub](https://github.com/SuperYanka/vacuum-distillation-control-system) · [Website](https://sites.google.com/view/kostiv-vdm-automation?usp=sharing) | `MATLAB` · `Simulink` |
+| 🕹️ **[PLC Control Systems](https://github.com/SuperYanka/plc-discrete-output-control)** | Control systems for Lomikont L-110, PLC-154 and MIK-51 controllers. | [GitHub](https://github.com/SuperYanka/plc-discrete-output-control) | `CoDeSys` · `ST` · `FBD` |
+| 🌐 **[Industrial IoT Furnace](https://github.com/SuperYanka/esp32-iot-furnace-monitoring)** | ESP32-based monitoring system for furnace data using MQTT. | [GitHub](https://github.com/SuperYanka/esp32-iot-furnace-monitoring) | `ESP32` · `MQTT` · `Flask` |
 
-</p>
+<br>
 
-## <p align="center"> 🤖 Machine Learning Projects 🤖 </p>
-<p align="center">
+<h2 align="center">🤖 Machine Learning Projects 🤖</h2>
 
 | Project | Description | Links | Technologies |
-|:--|:--|:--|--|
-| 🧠 [Intelligent Industrial Data Analysis](https://github.com/SuperYanka/intelligent-data-analysis-projects) | intelligent data analysis methods for industrial process monitoring data | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | Matlab
-| 🧠 [Sentiment Analysis](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) | Sentiment classification of IMDB reviews | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) | python nlp word2vec sklearn
-| 📊 [House Prices](https://github.com/SuperYanka/house-prices-regression) | House price prediction project | [GitHub](https://github.com/SuperYanka/house-prices-regression) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) | python docker machine-learning scikit-learn regression pandas randomforest ridge-regression lasso-regression
+|:--|:--|:--:|:--|
+| 🏭 **[Intelligent Industrial Data Analysis](https://github.com/SuperYanka/intelligent-data-analysis-projects)** | Intelligent data analysis methods for industrial process monitoring data. | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | `MATLAB` · `Neural Networks` · `ANFIS` |
+| 💬 **[Sentiment Analysis](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp)** | Sentiment classification of IMDB reviews using classical NLP methods. | [GitHub](https://github.com/SuperYanka/imdb-sentiment-analysis-nlp) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/imdb-sentiment-analysis-with-tf-idf-lr-nb) | `Python` · `NLP` · `Word2Vec` · `Scikit-learn` |
+| 🏠 **[House Prices](https://github.com/SuperYanka/house-prices-regression)** | House price prediction project with regression models and deployment. | [GitHub](https://github.com/SuperYanka/house-prices-regression) · [Kaggle](https://www.kaggle.com/code/yaninakostiv/eda-house-prices) | `Python` · `Docker` · `Scikit-learn` · `Pandas` |
 
-</p>
+
 
 
 
