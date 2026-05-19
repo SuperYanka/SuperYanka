@@ -25,10 +25,10 @@
 |--------------|-----------|
 | Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems |
 <p align="center">
-   \  | \ \  /    _ \  _ \  _ \ __ __| __| _ \  |    _ _|   _ \  
-  |\/ |  \  /     __/ (   |   /    |   _| (   | |      |   (   | 
- _|  _|   _|     _|  \___/ _|_\   _|  _| \___/ ____| ___| \___/  
-  🢃 🢃 🢃
+   \  | \ \  /    _ \  _ \  _ \ __ __| __| _ \  |    _ _|   _ \  </br>
+  |\/ |  \  /     __/ (   |   /    |   _| (   | |      |   (   | </br>
+ _|  _|   _|     _|  \___/ _|_\   _|  _| \___/ ____| ___| \___/  </br>
+  🢃 🢃 🢃</br>
   [portfolio (ukrainian)](https://sites.google.com/view/kostiv-yanina-portfolio?usp=sharing)
 </p>
 
