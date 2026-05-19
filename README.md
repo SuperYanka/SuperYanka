@@ -27,7 +27,7 @@
 <p align="center">
 <img src="ascii-art-text-portfolio-1.png" /></br>
   🢃  🢃  🢃</br>
-  [portfolio](https://sites.google.com/view/kostiv-yanina-portfolio/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) (ukrainian) [Furnace Control System](https://github.com/SuperYanka/vacuum-distillation-control-system)
+  [Portfolio](https://sites.google.com/view/kostiv-yanina-portfolio/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) (ukrainian) 
 </p>
 
 ## <p align="center"> ⚙️ Engineering Projects ⚙️</p>
