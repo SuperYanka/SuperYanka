@@ -92,16 +92,11 @@
 -->
 
 
+<h2 align="center">🧁 Fun Facts 🧁</h2>
 
-
-
-
-## <p align="center">🧁 Fun Facts 🧁</p>
-<p align="center">
-
-| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube |🌐 [Personal Website](https://superyanka-website.netlify.app/)
+| 🌵 Cacti | 🎼 Music | 🎨 Creativity | 🎮 YouTube | 🌐 Website |
 |:--|:--|:--|:--|:--|
-| Collect cacti (main one: **Stas**) | Play instruments | Love drawing & design | [@superyankaplay](https://www.youtube.com/@superyankaplay) |  Neon animated autobiographical portfolio website [GitHub](https://github.com/SuperYanka/superyanka-website) |
+| Collect cacti, main one is **Stas** | Play instruments and love music | Drawing, design and visual storytelling | [@superyankaplay](https://www.youtube.com/@superyankaplay) | [Personal Website](https://superyanka-website.netlify.app/) · [GitHub](https://github.com/SuperYanka/superyanka-website) |
 
 </p>
 
@@ -120,7 +115,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://superyanka-website.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Webpage-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://sites.google.com/view/kostiv-yanina-portfolio/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0">
+    <img src="https://img.shields.io/badge/Official-Portfolio-SuperYanka-00ffe1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
