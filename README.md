@@ -25,9 +25,7 @@
 |--------------|-----------|
 | Automation & AI engineer from KPI (Kyiv Polytechnic Institute) | Machine learning • Control systems • Industrial IoT • Data analysis for engineering systems |
 <p align="center">
-   \  | \ \  /    _ \  _ \  _ \ __ __| __| _ \  |    _ _|   _ \  </br>
-  |\/ |  \  /     __/ (   |   /    |   _| (   | |      |   (   | </br>
- _|  _|   _|     _|  \___/ _|_\   _|  _| \___/ ____| ___| \___/  </br>
+<img src="ascii-art-text-portfolio-1.png" />
   🢃 🢃 🢃</br>
   [portfolio (ukrainian)](https://sites.google.com/view/kostiv-yanina-portfolio?usp=sharing)
 </p>
@@ -38,7 +36,7 @@
 | Project | Description | Links | Technologies |
 |--------|-------------|-------------|------------|
 | 🔥 [Furnace Control System](https://github.com/SuperYanka/vacuum-distillation-control-system) | Diploma. Mathematical modeling and PI/MPC control of tubular furnace | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) [Website](https://sites.google.com/view/kostiv-vdm-automation?usp=sharing)|  MATLAB, Simulink |
-| ⚙️ [PLC Control Systems](https://github.com/SuperYanka/plc-discrete-output-control) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | CoDeSys, ST, FBD | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | 
+| ⚙️ [PLC Control Systems](https://github.com/SuperYanka/plc-discrete-output-control) | Control of Lomikont L-110, PLC-154 and MIK-51 controllers | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | CoDeSys, ST, FBD | 
 | 🌐 [Industrial IoT Furnace](https://github.com/SuperYanka/esp32-iot-furnace-monitoring) | ESP32 based monitoring system using MQTT  | [GitHub](https://github.com/SuperYanka/intelligent-data-analysis-projects) | ESP32, MQTT, Flask |
 
 </p>
