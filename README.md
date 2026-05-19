@@ -27,7 +27,7 @@
 <p align="center">
 <img src="ascii-art-text-portfolio-1.png" /></br>
   🢃  🢃  🢃</br>
-  [portfolio ](https://sites.google.com/view/kostiv-yanina-portfolio?usp=sharing) (ukrainian)
+  [portfolio](https://sites.google.com/view/kostiv-yanina-portfolio?usp=sharing) (ukrainian)
 </p>
 
 ## <p align="center"> ⚙️ Engineering Projects ⚙️</p>
